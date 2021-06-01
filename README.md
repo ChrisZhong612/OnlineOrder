@@ -5,3 +5,7 @@ DoorDash+: A Spring and Hibernate based online food ordering system
 •	Provided both authentication and authorization via Spring security to protect the application from malicious attacks
 •	Used the Spring framework core technologies to loosely decouple all the components in the application
 •	Build the client side with ReactJs and Ant Design to allow users add items to the shopping cart and place orders
+
+# Build & Run
+Deploy and use:
+http://localhost:8080/index.html
